@@ -1,0 +1,12 @@
+n=int(input())
+l=[i for i in range(1,n+1)]
+l. reverse()
+print(l)
+
+output:-
+6
+[6, 5, 4, 3, 2, 1]
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
